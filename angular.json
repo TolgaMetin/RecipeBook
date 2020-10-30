@@ -24,7 +24,9 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
+              
             ],
             "scripts": []
           },
@@ -119,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "orneksiteapp"
+    }
+  },
+  "defaultProject": "orneksiteapp",
+  "cli": {
+    "analytics": "035ae827-98a6-4c76-93c4-8753c5070d15"
+  }
 }
